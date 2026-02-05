@@ -54,7 +54,7 @@ This repository contains a research project analyzing the impact of fuel price a
   * Python 
   * Data Analysis: pandas, numpy
   * Visualization: matplotlib, seaborn, plotly
-  * Statistical Analysis: statsmodels, scipy
+  * Statistical Analysis: scipy
   * Machine Learning: scikit-learn, xgboost, pycaret
 
 ## Key Findings

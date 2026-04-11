@@ -25,8 +25,8 @@ This repository contains a research project analyzing the impact of fuel price a
      
 4. Fuel Dataset:
    * Description: The dataset contains fuel prices from 2011 to 2025.
-   * Source: Ceylon Petroleum Corporation official website
-   * Time Period: 2015 -2015
+   * Source: Ceylon Petroleum Corporation official website (URL: https://ceypetco.gov.lk/historical-prices/)
+   * Time Period: 2011/01/01 -2025/10/01
    * Key Variables: LP 92, LP, 95, LAD, LSD, LIK, LK etc..
 
 ## Methodoloy

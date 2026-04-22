@@ -66,6 +66,14 @@ This repository contains a research project analyzing the impact of fuel price a
 
 ## Results
 
-#### Volatility Analysis: [Summary of volatility patterns identified]
-### Prediction Accuracy: [Summary of model performance]
+### Volatility Analysis: [Summary of volatility patterns identified]
+### Prediction Results: 
+  #### Best Pipeline Approach: Data + Standardization + Transformation
+  |Module|MAE|MSE|RMSE|R2|
+  |------|---|---|----|--|
+  |SVR|0.0524|0.004|0.0635|0.9262|
+  |LR|0.4056|0.245|0.495|-3.491|
+  |RFR|0.0621|0.007|0.0835|0.8722|
+  |Ensemble Module|0.0622|0.007|0.0836|0.8718|
+  |LSTM|11.205|211.905|14.556|-2.893|
 ### Key Influencing Factors: [List of main factors affecting rice prices]
